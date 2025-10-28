@@ -3,6 +3,6 @@ string name = Console.ReadLine();
 Console.WriteLine(name);
 
 Console.Write("your name is ");
-Console.Writeline(name);
+Console.WriteLine(name);
  
  
