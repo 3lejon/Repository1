@@ -1,7 +1,7 @@
  static void Main(string[] args)
 {
     Console.WriteLine("please enter the message: C# is fun i am going to code C# tomorrow ");
-    Console.WriteLine("normal");
+    
     var message = Console.ReadLine();
     Console.WriteLine("normal");
     if (message != " C# is fun i am going to code C# tomorrow  ")
